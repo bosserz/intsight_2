@@ -81,3 +81,33 @@ a:hover {
 .blog-section {
     margin-top: 50px;
 }
+
+.site-footer {
+    padding: 4rem 0;
+    position: relative;
+    background: #001f42;
+    margin-top: 10rem; }
+    @media (max-width: 991.98px) {
+      .site-footer {
+        padding: 2rem 0; } }
+    .site-footer h3 {
+      font-size: 1rem;
+      margin-bottom: 1.5rem;
+      color: #fff; }
+    .site-footer a {
+      color: #007bff; }
+      .site-footer a:hover {
+        color: #fff; }
+    .site-footer ul li {
+      margin-bottom: .5rem; }
+      .site-footer ul li a {
+        color: #007bff; }
+        .site-footer ul li a:hover {
+          color: #fff; }
+
+.footer-social li {
+    color: #fff;
+    position: relative;
+    display: inline-block;
+  
+  }
