@@ -69,6 +69,11 @@ a:hover {
 
 .about-section {
     min-height: 200px;;
+    margin-bottom: 50px;
+}
+
+.product-section {
+    margin-bottom: 80px;
 }
 
 .product-icon {
@@ -80,30 +85,31 @@ a:hover {
 }
 .blog-section {
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 .site-footer {
     padding: 4rem 0;
     position: relative;
-    background: #001f42;
-    margin-top: 10rem; }
+    background: #d9d9d9;
+    margin-top: 1rem; }
     @media (max-width: 991.98px) {
       .site-footer {
         padding: 2rem 0; } }
     .site-footer h3 {
       font-size: 1rem;
       margin-bottom: 1.5rem;
-      color: #fff; }
+      color: #373535; }
     .site-footer a {
       color: #007bff; }
       .site-footer a:hover {
-        color: #fff; }
+        color: #373535; }
     .site-footer ul li {
       margin-bottom: .5rem; }
       .site-footer ul li a {
         color: #007bff; }
         .site-footer ul li a:hover {
-          color: #fff; }
+          color: #373535; }
 
 .footer-social li {
     color: #fff;
@@ -111,3 +117,6 @@ a:hover {
     display: inline-block;
   
   }
+
+.copyright {
+color: rgba(37, 35, 35, 0.5); }
