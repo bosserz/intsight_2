@@ -120,3 +120,13 @@ a:hover {
 
 .copyright {
 color: rgba(37, 35, 35, 0.5); }
+
+.page-body {
+    margin-top: 5rem;
+    min-height: 500px;
+}
+
+.content {
+    margin-top: 1.7rem;
+}
+
