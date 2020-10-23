@@ -83,6 +83,14 @@ a:hover {
 .product-item {
     margin-top: 10px;
 }
+
+@media only screen and (min-width: 800px) {
+  .product-item  {
+    min-height: 200px;
+  }
+}
+
+}
 .blog-section {
     margin-top: 50px;
     margin-bottom: 100px;
@@ -205,6 +213,7 @@ div.desc {
     width: 70%;
   }
 }
+
 
 .clearfix:after {
   content: "";
